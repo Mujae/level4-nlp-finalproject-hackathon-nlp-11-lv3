@@ -38,3 +38,6 @@ query_encoder/
 
 !images/
 !images/**/*
+
+/Mujae
+/ocr_results
